@@ -32,6 +32,7 @@
     "bitcore-lib-litecoin": "github:pittxid/bitcore-lib-litecoin",
     "bitcore-lib-snowgem": "github:snowgem/bitcore-lib-snowgem",
     "bitcore-lib-zcash": "github:pittxid/bitcore-lib-zcash",
+    "bitcore-lib-zen": "github:pittxid/bitcore-lib-zen",
     "bitcore-mnemonic": "^1.3.0",
     "bitcore-payment-protocol": "^1.7.0",
     "json-stable-stringify": "^1.0.0",
